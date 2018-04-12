@@ -1,0 +1,9 @@
+c:\users\smk\documents\visual studio 2012\Projects\Extract_Bookmark\Extract_Bookmark\bin\Debug\Extract_Bookmark.exe
+c:\users\smk\documents\visual studio 2012\Projects\Extract_Bookmark\Extract_Bookmark\bin\Debug\Extract_Bookmark.pdb
+c:\users\smk\documents\visual studio 2012\Projects\Extract_Bookmark\Extract_Bookmark\bin\Debug\itextsharp.dll
+c:\users\smk\documents\visual studio 2012\Projects\Extract_Bookmark\Extract_Bookmark\obj\Debug\Extract_Bookmark.csprojResolveAssemblyReference.cache
+c:\users\smk\documents\visual studio 2012\Projects\Extract_Bookmark\Extract_Bookmark\obj\Debug\Extract_Bookmark.Properties.Resources.resources
+c:\users\smk\documents\visual studio 2012\Projects\Extract_Bookmark\Extract_Bookmark\obj\Debug\Extract_Bookmark.csproj.GenerateResource.Cache
+c:\users\smk\documents\visual studio 2012\Projects\Extract_Bookmark\Extract_Bookmark\obj\Debug\Extract_Bookmark.exe
+c:\users\smk\documents\visual studio 2012\Projects\Extract_Bookmark\Extract_Bookmark\obj\Debug\Extract_Bookmark.pdb
+C:\Users\smk\documents\visual studio 2012\Projects\Extract_Bookmark\Extract_Bookmark\obj\Debug\Extract_book_mark.Form1.resources
